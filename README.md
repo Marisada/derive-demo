@@ -23,7 +23,7 @@ Cargo.toml:
 
 ```toml
 [dependencies]
-derive-demo = "0.5"
+derive-demo = "0.1"
 ```
 
 Include the macro:
